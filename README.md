@@ -8,4 +8,4 @@ Awesome talks, presentations, workshops from [Vernacular.ai](http://vernacular.a
 
 ### Microservices & Containers platform
 
-* [Move Fast and Make Things with Microservices](2019/move-fast-and-make-things-with-microservices.md) Mithun Arunan in this talk covers the basic of microservice patterns and the challenges in orchestrating them leaveraging cloud native technologies.
+* [Move Fast and Make Things with Microservices](move-fast-and-make-things-with-microservices/README.md) Mithun Arunan in this talk covers the basic of microservice patterns and the challenges in orchestrating them leaveraging cloud native technologies.

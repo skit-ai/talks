@@ -1,0 +1,197 @@
+#+TITLE: Common Lisp Object System (/CLOS)/
+#+AUTHOR: Abhinav Tushar
+#+EMAIL: contact@lepisma.xyz
+#+DATE:  2019-11-09
+#+OPTIONS: toc:nil email:t
+
+* Outline :: What
+1. Object Orient Programming
+2. Common Lisp Object System (CLOS)
+3. Advanced CLOS: Meta Object Protocol (MOP)
+
+* Outline :: How
+1. Conversations
+2. Examples
+3. Builds
+
+* Object Oriented Programming
+** Programming
+All of non imperative programming is basically about /types and their
+transformations/ with a little inclination one way or the other.
+
+** Objects
+Packets of properties.
+
+** Objects + /Methods/
+Packets of properties with associated behaviors.
+
+#+begin_src c :exports both
+  // TODO
+  int main (...
+#+end_src
+
+** Properties of OOP
+Or, /most cited/ properties of OOP
+
++ Encapsulation
++ Abstraction
++ Inheritance
++ Polymorphism
+
+* Diversity
+Java, Python, Lua, Io, Go, Haskell.
+
+#+begin_src shell :exports both
+  # TODO
+#+end_src
+
+** Reusing Form
+Adding new data types vs new methods.
+
+#+begin_src java :exports both
+  // TODO
+#+end_src
+
+#+begin_src haskell :exports both
+  -- TODO
+#+end_src
+
+** Reusing Function
+Inheritance and composition.
+
+* CLOS
+** History
+Why read history?
+
+#+begin_quote
+3.6 Symbolics “New Error System” (1983)
+
+Around this time, the Symbolics Lisp Machine system came out with an
+object-oriented paradigm for error handling. Called the “New Error System” (or
+“NES”), it was described in a document titled Signaling and Handling Conditions.
+[Moon83]
+
+I was amused to hear one Lisp Machine user say “Finally, a second use for
+Flavors.” Flavors was an object-oriented paradigm that became a strong influence
+on the design of CLOS. Some users were having difficulty figuring out what they
+were intended to do with such a system. Since almost all examples of its use
+involved customizing the window system, many users had come to believe,
+mistakenly, that Flavors was just a window system customization language. They
+had overlooked its general-purpose nature. Having a condition system based on
+Flavors meant that there were suddenly many examples of using Flavors for
+reasons other than extending the window system. As such, an unexpected positive
+effect of the introduction of NES was to finally break certain people of that
+confusion.
+
+- [[http://www.nhplace.com/kent/Papers/cl-untold-story.html][Common Lisp: The Untold Story]]
+#+end_quote
+
+** Class and objects
+#+begin_src common-lisp :exports both
+  ;; TODO
+  (defclass ...)
+#+end_src
+
+** Methods?
+#+begin_src common-lisp :exports both
+  ;; TODO
+  (defgeneric ...)
+#+end_src
+
+** Methods
+#+begin_src common-lisp :exports both
+  ;; TODO
+  (defmethod ...)
+#+end_src
+
+** Effective method
+#+begin_src common-lisp :exports both
+  ;; TODO
+#+end_src
+
+** Goodies
++ CLOS Cookbook. Introspection.
++ Modifying definitions. =repl=.
++ Changing classes. =repl=.
+
+** In the wild
+/Mostly about type based and multi dispatches./
+
++ [[https://github.com/numcl/specialized-function][numcl]] specialized implementations.
++ Julia's [[https://docs.julialang.org/en/v1/manual/methods/][methods]].
+
+#+begin_quote
+Multiple dispatch is particularly useful for mathematical code, where it makes
+little sense to artificially deem the operations to "belong" to one argument
+more than any of the others: does the addition operation in x + y belong to x
+any more than it does to y?
+#+end_quote
+
++ Notes about [[https://ericabrahamsen.net/tech/2016/feb/bbdb-eieio-object-oriented-elisp.html][ebdb rewrite]].
+
+** partition-perspicacious
+A splitwise clone.
+
+#+begin_src common-lisp :exports both
+  ;; TODO
+#+end_src
+
+* Advanced CLOS: MOP
+
+** Features
++ Class properties.
++ Method specializers.
++ Inheritance mechanism.
++ Object allocation.
++ ...
+
+** Features. /Open/.
++ [[https://github.com/marijnh/Postmodern][Postmodern]]
++ [[https://github.com/pcostanza/filtered-functions][Filtered functions]]
+
+** What to open?
+First class =x=. Points of modifications. Performance.
+
+** How to open?
+A protocol.
+
+** Meta Object Protocol
+A protocol describing first class /metaclass/.
+
+** Concrete example
+#+begin_src python :exports both
+  # TODO: python meta
+#+end_src
+
+[[https://gitlab.com/vernacularai/ai/lute/blob/master/lute/node/base.py#L36-71][NodeMeta]] from lute.
+
+** CLOS MOP
+CLOS in CLOS
+
+** CLOS MOP
+=class=, =generics=, =methods= ... are all classes
+
+** The Heirarchy
+[[file:./heirarchy.png]]
+
+From AOMOP.
+
+** Examples
+What we will need:
++ MOP [[https://clos-mop.hexstreamsoft.com/][Specification]]
++ [[https://github.com/pcostanza/closer-mop][closer-mop]]
+
+** Example :: Logging
+Aspect Oriented Programming
+
+#+begin_src common-lisp :exports both
+  ;; TODO
+#+end_src
+
+** Example :: Reversed CPL
+#+begin_src common-lisp :exports both
+  ;; TODO
+#+end_src
+
+* End
+.

@@ -1,0 +1,29 @@
+#+TITLE: CLOS talk
+
+Content and resources for Common Lisp Object System + Meta Object Protocol talk
+by [[https://lepisma.xyz][Abhinav Tushar]] at Vernacular.ai on 2019-11-09 Sat.
+
+Presentation [[./talk.org][here]]. Code snippets are in ~./snippets~
+
+** Reading resources:
++ [[https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/][Expression problem]] from Eli's blog
++ Two bit history on [[https://twobithistory.org/2019/01/31/simula.html][Simula]]
++ CL Cookbook on [[https://lispcookbook.github.io/cl-cookbook/clos.html][CLOS]]
++ MOP in [[https://www.gnu.org/software/guile/manual/html_node/The-Metaobject-Protocol.html][guile]]
++ [[https://clos-mop.hexstreamsoft.com][CLOS MOP]]
++ [[https://www.amazon.ca/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744][The Art of the Metaobject Protocol]]
++ A few links might be inside the [[file:./talk.org][talk]]
+
+** Suggested exercises
++ Extend the C example to supported full fledged multiple inheritance without
+  /many/ hacks.
++ Extend =pp= to:
+  + work with [[https://www.ledger-cli.org/][ledger]] format
+  + support multiple groups and reporting
++ MOP
+  + Find list of CL projects using MOP in some form.
+  + Implement exclusive inheritance.
+  + Support slot value constraints in class definitions.
+  + Only one method definition for a generic function.
+  + File system backed objects.
+  + Add MOP in EIEIO (check their [[https://www.gnu.org/software/emacs/manual/html_node/eieio/Wish-List.html#Wish-List][wish list]]).

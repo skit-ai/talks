@@ -9,3 +9,7 @@ Awesome talks, presentations, workshops from [Vernacular.ai](http://vernacular.a
 ### Microservices & Containers platform
 
 * [Move Fast and Make Things with Microservices](move-fast-and-make-things-with-microservices/README.md) Mithun Arunan in this talk covers the basic of microservice patterns and the challenges in orchestrating them leaveraging cloud native technologies.
+
+### Spoken Language Understanding
+
+* [What goes inside building the voice interface for a Billion Indians](slu-gigabytes/README.md). [Akshay Deshraj](https://github.com/axay/) covers Spoken Language Understanding stack at [Gigabytes 2019](https://gigabytes.co.in).

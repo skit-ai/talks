@@ -7,7 +7,7 @@ Move Fast and Make Things with Microservices
 
 This talk was presented in collaboration with [HelloMeets](https://hub.hellomeets.com/e/move-fast-and-make-things-with-microservices) community.
 
-[Slides - Move Fast and Make Things with Microservices](https://speakerdeck.com/mithunarunan/move-fast-and-make-things-with-microservices)
+[Slides](https://speakerdeck.com/mithunarunan/move-fast-and-make-things-with-microservices)
 
 Description
 -----------

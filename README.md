@@ -8,7 +8,9 @@ Awesome talks, presentations, workshops from [Vernacular.ai](http://vernacular.a
 
 ### Microservices & Containers platform
 
-* [Move Fast and Make Things with Microservices](move-fast-and-make-things-with-microservices/README.md). [Mithun Arunan](https://twitter.com/MithunArunan) in this talk covers the basic of microservice patterns and the challenges in orchestrating them leaveraging cloud native technologies.
+* [Move Fast and Make Things with Microservices](move-fast-and-make-things-with-microservices/README.md) - [Mithun Arunan](https://twitter.com/MithunArunan) covers microservice patterns, anti-patterns and orchestrating them leaveraging cloud native technologies.
+
+* [Evolution of Kubernetes - Google's Borg](evolution-of-kubernetes-googles-borg/README.md) - Internal talk at Vernacular.ai by [Mithun Arunan](https://twitter.com/MithunArunan) 
 
 ### Spoken Language Understanding
 

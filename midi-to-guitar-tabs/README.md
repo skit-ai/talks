@@ -5,7 +5,7 @@ MIDI to Guitar Tabs Generator
 * Venue     : Vernacular.ai, Bangalore
 * Length    : 30 minutes
 
-Presentation [here](https://github.com/Vernacular-ai/talks/blob/master/midi-to-guitar-tabs/talk.md)
+Presentation [here](talk.md)
 
 Reading resource [here](https://gist.github.com/vipul-sharma20/e8c333de5c4876403b936c78e934b393)
 

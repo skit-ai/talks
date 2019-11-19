@@ -10,7 +10,7 @@ Awesome talks, presentations, workshops from [Vernacular.ai](http://vernacular.a
 
 * [Move Fast and Make Things with Microservices](move-fast-and-make-things-with-microservices/README.md) - [Mithun Arunan](https://twitter.com/MithunArunan) covers microservice patterns, anti-patterns and orchestrating them leaveraging cloud native technologies.
 
-* [Evolution of Kubernetes - Google's Borg](evolution-of-kubernetes-googles-borg/README.md) - Internal talk at Vernacular.ai by [Mithun Arunan](https://twitter.com/MithunArunan) 
+* [Evolution of Kubernetes - Google's Borg](evolution-of-kubernetes-googles-borg/README.md) - Internal talk at Vernacular.ai by [Mithun Arunan](https://twitter.com/MithunArunan)
 
 ### Spoken Language Understanding
 
@@ -19,3 +19,7 @@ Awesome talks, presentations, workshops from [Vernacular.ai](http://vernacular.a
 ### PL
 
 * [Common Lisp Object System and Meta Object Protocol](clos-mop/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
+
+### Computer-Aided Musicology
+
+* [MIDI to Guitar Tabs Generator](midi-to-guitar-tabs/README.md). Internal talk at Vernacular.ai by [Vipul Sharma](https://github.com/vipul-sharma20/).

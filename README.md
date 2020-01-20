@@ -12,14 +12,18 @@ Awesome talks, presentations, workshops from [Vernacular.ai](http://vernacular.a
 
 * [Evolution of Kubernetes - Google's Borg](evolution-of-kubernetes-googles-borg/README.md) - Internal talk at Vernacular.ai by [Mithun Arunan](https://twitter.com/MithunArunan)
 
-### Spoken Language Understanding
+### Machine Learning
 
-* [What goes inside building the voice interface for a Billion Indians](slu-gigabytes/README.md). [Akshay Deshraj](https://github.com/axay/) covers Spoken Language Understanding stack at [Gigabytes 2019](https://gigabytes.co.in).
++ [What goes inside building the voice interface for a Billion Indians](slu-gigabytes/README.md). [Akshay Deshraj](https://github.com/axay/) covers Spoken Language Understanding stack at [Gigabytes 2019](https://gigabytes.co.in).
++ Text to Speech Systems. Internal talk at Vernacular.ai on 17th Jan, 2020 by Aayush Deshraj.
 
 ### PL
 
-* [Common Lisp Object System and Meta Object Protocol](clos-mop/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
++ [Common Lisp Object System and Meta Object Protocol](clos-mop/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
 
 ### Computer-Aided Musicology
 
-* [MIDI to Guitar Tabs Generator](midi-to-guitar-tabs/README.md). Internal talk at Vernacular.ai by [Vipul Sharma](https://github.com/vipul-sharma20/).
++ [MIDI to Guitar Tabs Generator](midi-to-guitar-tabs/README.md). Internal talk at Vernacular.ai by [Vipul Sharma](https://github.com/vipul-sharma20/).
+
+## Miscellaneous
++ SaaS 101. Internal talk at Vernacular.ai on 3rd Jan, 2020 by Sourabh Gupta.

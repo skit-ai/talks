@@ -16,6 +16,7 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 
 + [What goes inside building the voice interface for a Billion Indians](slu-gigabytes/README.md). [Akshay Deshraj](https://github.com/axay/) covers Spoken Language Understanding stack at [Gigabytes 2019](https://gigabytes.co.in).
 + Text to Speech Systems. Internal talk at Vernacular.ai on 17th Jan, 2020 by Aayush Deshraj.
++ The Past, Present and Future of ASR. Internal talk at Vernacular.ai on 31st Jan, 2020 by Prabhsimran Singh.
 
 ### PL
 

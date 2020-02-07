@@ -1,0 +1,6 @@
+#+TITLE: Automated Reasoning
+
+Talk on [2020-02-07 Fri].
+
+Slides [[./reasoning.org][here]]. A few notes [[./notes.org][here]]. Reading resources might be incomplete and will be
+added later.

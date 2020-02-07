@@ -1,0 +1,98 @@
+#+TITLE: Automated Reasoning
+#+DATE: [2020-02-07 Fri]
+#+AUTHOR: Abhinav Tushar
+
+* Outline
++ Reasoning
++ Intelligence
++ Humans
++ Directions
+
+* Reasoning
+** Definition attempt
+#+begin_quote
+Process of jumping from one idea to another
+#+end_quote
+
+** An easy example
+#+begin_src shell
+a + b = a + b
+a + b = b + a
+#+end_src
+
+Peano numbers. Induction and Commutativity.
+
+** Automating the process
++ Theorem Proving. [[https://x80.org/rhino-hott/][Coq]]
++ Logic Programming. [[https://swish.swi-prolog.org/][Prolog]]
+
+** Retouch
+A Premise & A language for walking over ideas.
+
+** An analogy
+[[https://imgur.com/0aRZ3LE][Walking on mazes]]
+
+* Intelligence
+** Robbins Conjecture
+[[https://archive.nytimes.com/www.nytimes.com/library/cyber/week/1210math.html][Computer Math Proof Shows Reasoning Power]] 1996
+
+** Solving mazes
+[[https://youtu.be/K8HEDqoTPgk?t=48][Slime Mold]]
+
+** Intuition
+"Nobody knows how humans reason," he said. "When you talk to mathematicians and
+say, 'I understand you proved a great theorem. How did you do it?' They'll say,
+'Well, I walked around my house a lot and I read some papers and I thought,' "
+
+** Decomposition
++ Perception
++ Reasoning
++ Control
++ Representation
++ Thinking
++ Learning
++ ...
+
+** Muddle
+[[https://talktotransformer.com/][GPT-2]]
+
+* Humans
+** A hard example
+Roberto and Saint-Savin. From /The Island of the Day Before/.
+
+[[file:./letter.png]]
+
+** Troubles
+*** Input
+[[https://www.youtube.com/watch?v=vJG698U2Mvo][vid]]
+
+*** Decision Making Biases
+[[https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg][The Cognitive Bias Codex]]
+
+** Approximations
+"For Coleridge, Shakespeare depicted Hamlet's light of indecisiveness as
+resulting from an imbalance between the human attention to external objects, and
+inward thoughts, and thus suffered a paralysis of action because his faculty of
+vivid imagination overpowered his will and induced an aversion to actually
+enacting any measure"
+
+- [[https://en.wikipedia.org/wiki/Critical_approaches_to_Hamlet#Romantic_criticism][Critical approaches to Hamlet]]
+
+** Dual Process theory
+[[https://en.wikipedia.org/wiki/Dual_process_theory#Systems][Systems]]
+
+* Directions
++ Explainability and Interpretability and Alignment.
++ Learning and Reasoning. [[https://demo.allennlp.org/textual-entailment][Enforcing abstractions]].
++ [[https://3.bp.blogspot.com/-7UKKuqo6M_U/VfRc7lkvrKI/AAAAAAAABL0/0gsSDWK3wFM/s1600/AoTzKdD.jpg][Fundamental questions]].
+
+* 
+"I want to tell people the real truth of it," Wos said. "If we succeed really
+big," he said, giving people hand held thought processors like they now have
+hand held numerical calculators, "what an incredible improvement we can make to
+their lives."
+
+* TODO Readings
++ [[https://plato.stanford.edu/entries/reasoning-automated/][SEP on Automated Reasoning]]
++ [[https://softwarefoundations.cis.upenn.edu/][Software Foundations]]
++ [[https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow][Thinking Fast and Slow]]

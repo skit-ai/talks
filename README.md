@@ -28,3 +28,4 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 
 ## Miscellaneous
 + SaaS 101. Internal talk at Vernacular.ai on 3rd Jan, 2020 by Sourabh Gupta.
++ [Automated Reasoning](automated-reasoning/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).

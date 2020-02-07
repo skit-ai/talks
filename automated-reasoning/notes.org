@@ -1,0 +1,46 @@
+#+TITLE: Automated Reasoning Speaker Notes
+
++ Agenda. Easy and hard problems.
++ Incompetency in the later half.
+
+* Reasoning
++ General rational reasoning def
++ Induction
++ Coq random sample run
++ Prolog family relation example then tree parsing
+
+* Intelligence
++ Muddling of reasoning with other components of intelligence
++ "there is a dog in this room along with me. the animal bit me."
++ GPT muddle
+
+#+begin_quote
+paris : france
+ottawa : canada
+delhi : 
+#+end_quote
+
+#+begin_quote
+1 + 2 = 3
+4 + 5 = 9
+3 + 5 = 8
+1 + 5 = 
+#+end_quote
+
+* Humans
++ Talk about the two reasonings and their differences.
++ Problems with formal reasoning. Rational choice theory in decision making.
++ Show biases.
++ A reason for why we have this. Hamlet. Approximations. The love letter's
+  wording changes. It doesn't matter how perfectly you can evade everything.
++ Dual systems. Conscious and unconscious. Not an expertise.
+
+* Directions
++ Abstractions by problem framing. Entailment reasoning. Naming symbols.
++ Connecting all the pieces in intelligence.
+
+* 
++ Conversations are reason bound.
+
+* Readings
++ To finish and share the list.

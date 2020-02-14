@@ -29,4 +29,4 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 ## Miscellaneous
 + SaaS 101. Internal talk at Vernacular.ai on 3rd Jan, 2020 by Sourabh Gupta.
 + [Automated Reasoning](automated-reasoning/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
-+ [Managing email: A little better](https://docs.google.com/presentation/d/1u2HP4UOli2z_9bPnKo5sitWgjFDhuE6ow0bi99k-ru4/edit?usp=sharing). Internal talk at Vernacular.ai by [Pravendra Singh](https://twitter.com/hackpravj)
++ [Managing email: A little better](https://docs.google.com/presentation/d/1u2HP4UOli2z_9bPnKo5sitWgjFDhuE6ow0bi99k-ru4/edit?usp=sharing). Internal talk at Vernacular.ai on 14th Feb, 2020 by [Pravendra Singh](https://twitter.com/hackpravj)

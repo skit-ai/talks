@@ -1,0 +1,44 @@
+#+TITLE: Case studies in Informational Graphics and Visualizations
+#+AUTHOR: Abhinav Tushar
+
+* →
+
+* 1. Cholera [1854]
+[[https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak][1854 Broad Street cholera outbreak]] · [[https://en.wikipedia.org/wiki/John_Snow][John Snow]] · [[https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg][Soho map]]
+
+* 2. Russian Winter [1812]
+[[https://en.wikipedia.org/wiki/French_invasion_of_Russia][French invasion of Russia]] · [[https://en.wikipedia.org/wiki/Charles_Joseph_Minard][Charles Joseph Minard]] · [[https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png][Napoleon's pyrrhic victory]]
+
+* 3. Nightingale's Coxcombs [1858]
+[[https://en.wikipedia.org/wiki/Crimean_War][Crimean War]] · [[https://en.wikipedia.org/wiki/Florence_Nightingale][Florence Nightingale]] · [[https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg][Mortality]]
+
+* 4. Challenger [1986]
+[[https://www.youtube.com/watch?v=raMmRKGkGD4][Feynman's video]]
+
+[[https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster][Challenger disaster]] · [[https://en.wikipedia.org/wiki/O-ring#/media/File:O-rings.jpg][O Rings]]
+
+[[./images/thiokol.png][Thiokol's post plot]] · [[./images/o-ring-damage.png][A simpler plot]]
+
+* A few Pointers
++ Data-Ink ratio
++ Lie factor
++ Chart Junk
++ ...
+
+* Goals
+** Guide for visitors to Ise Shrine
+[[./images/map.png][Map]]
+
+** Sidereus Nuncius
+[[https://upload.wikimedia.org/wikipedia/commons/c/ca/Medicean_Stars.png][Jupiter's Moon]]
+
+** Elements
+[[./images/elements.png][Oliver Byrne's]]
+
+* .
+
+* References
+1. *Visual Display of Quantitative Information*
+2. Envisioning Information
+3. Visual Explanations
+4. Beautiful Evidence

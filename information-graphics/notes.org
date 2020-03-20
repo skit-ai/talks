@@ -1,0 +1,83 @@
+#+TITLE: Case studies in Informational Graphics and Visualizations (Speaker Notes)
+
+* Outline
++ 4 stories/cases with a need for elaboration of some information.
++ All have been precursors to something interesting in the field.
+
+* 1. Epidemic
+Exploratory.
+
+John Snow and Cholera. 500-600 deaths. Disease as water borne. Removed handle.
+
+Start of epidemiology.
+
+* 2. Russian Winter
+Descriptive.
+
+Charles Minard. Russia and the Winters.
+
+Factors:
++ Cartographic content.
++ Flow map.
++ Temperature.
++ Events
++ Notice specific events. Like crossing river Berezina and Napoleon movement to
+  Paris.
+
+Initialized flow maps. Sankey's etc.
+
+PS: This was not all because of General Winter.
+
+* 3. Nightingale
+Prescriptive.
+
+Nightingale's Coxcombs. Crimean War. Major reasons of deaths.
+
+Radar plot vs Coxcombs. Area vs Radius.
+
++ red = wounds
++ blue = diseases
++ black = all other causes
+
+#+begin_quote
+The Russians were a minor enemy. The real enemies were cholera, typhus, and
+dysentery. Once the military looked at that eloquent graph, the modern army
+hospital system was inevitable.
+#+end_quote
+
+Founder of modern nursing
+
+No legend etc.
+
+* 4. Challenger
+Challenger's disaster.
+
+Broke apart 73 seconds into its flight, killing all seven crew members aboard.
+
+Thiokol's only no-launch recommendation in 12 years. Then switched stance.
+
+This was discussed during the evening before the launch. 13 charts sent out with
+no results. This is used in a lot of case studies. For management courses,
+groupthink, engineer vs admin, stats etc.
+
+Temperature < 30F.
+
++ names
++ temperature connection
++ blow-by vs erosion in rings
+
+* A few Pointers
+
+* Goals
+** Map
+Think about the trouble you have with maps
+
+** Nuncius
+Typographic rigidity
+
+** Elements
+A B C D E F
+
+* .
+
+* References

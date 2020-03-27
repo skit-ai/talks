@@ -1,4 +1,4 @@
 #+TITLE: Case studies in Informational Graphics and Visualizations
 #+AUTHOR: Abhinav Tushar
 
-Internal talk at Vernacular.ai on 2020-03-20 Fri.
+Internal talk at Vernacular.ai on 2020-03-20 Fri. [[./index.org][Here]].

@@ -32,3 +32,4 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 + [Managing email: A little better](https://docs.google.com/presentation/d/1u2HP4UOli2z_9bPnKo5sitWgjFDhuE6ow0bi99k-ru4/edit?usp=sharing). Internal talk at Vernacular.ai on 14th Feb, 2020 by [Pravendra Singh](https://twitter.com/hackpravj)
 + Employee's Contribution/Impact To Marketing. Internal talk at Vernacular.ai on 13th March, 2020 bu Anish Padmanabhan.
 + [Case studies in Informational Graphics and Visualizations](information-graphics/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
++ [Economic cycles](https://docs.google.com/presentation/d/130QWVonkw5HzH0e2SLTec3U45riApY8cb-nac9TumP8/edit#slide=id.p). Internal talk at Vernacular.ai on 27th March, 2020 by Udit Sarin.

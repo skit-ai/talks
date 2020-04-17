@@ -1,0 +1,4 @@
+#+TITLE: continuations
+
+Introductory talk on continuations and call/cc. See accompanying code [[demo.rkt][file]] for
+the content.

@@ -21,7 +21,8 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 ### PL
 
 + [Common Lisp Object System and Meta Object Protocol](clos-mop/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
-+ [Type Systems - 1](https://docs.google.com/presentation/d/1IhJ51zk-qeOIpnJdD3AiWD5n18kKkuK4dvShoW2t6uc). Internal talk at Vernacular.ai by [Amresh Venugopal](https://github.com/ltbringer)
++ [Continuations](continuations/README.org). Internal talk at Vernacular.ai on 10th April, 2020 by [Abhinav Tushar](https://lepisma.xyz).
++ [Type Systems - 1](https://docs.google.com/presentation/d/1IhJ51zk-qeOIpnJdD3AiWD5n18kKkuK4dvShoW2t6uc). Internal talk at Vernacular.ai on 17th April, 2020 by [Amresh Venugopal](https://github.com/ltbringer)
 
 ### Computer-Aided Musicology
 

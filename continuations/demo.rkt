@@ -10,6 +10,11 @@
 
 ;; CPS js example
 
+;; Few examples are taken from the following sources:
+;;
+;; - http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/
+;; - https://beautifulracket.com/explainer/continuations.html
+
 (+ 1 (* 2 3))
 
 ;; 2 * 3 = r
@@ -32,13 +37,12 @@
 ;;; JUMPS
 ;; 0 -> 9
 
-while True:
-   if n == 1:
-      print(done)
-      break
-   else:
-      print("hello")
-contine
+;; while True:
+;;    if n == 1:
+;;       print(done)
+;;       break
+;;    else:
+;;       print("hello")
 
 (let ((cont #f))
   (call/cc (lambda (k) (set! cont k)))

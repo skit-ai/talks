@@ -1,8 +1,8 @@
-#+TITLE: Extending Python's Types
+#+TITLE: Extending Python's Type Annotations
+#+AUTHOR: Abhinav Tushar
 
 + ast parsing, show trees
-+ type annotations
-+ mypy
++ type annotations, mypy
 + dependent types
 + design by contracts
 + formal analysis, verification

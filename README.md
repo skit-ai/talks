@@ -12,7 +12,7 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 
 * [Evolution of Kubernetes - Google's Borg](evolution-of-kubernetes-googles-borg/README.md) - Internal talk at Vernacular.ai by [Mithun Arunan](https://twitter.com/MithunArunan)
 
-* [Scaling Infrastructure - Overview, Challenges and Improvements](https://docs.google.com/presentation/d/14YQ1uYh8974hMUc045caSxZXUtQKvAWsb3OrEPDyYJ0) - Internal talk at Vernacular.ai on 29th May, 2020 by [Abhishek Sachdeva](github.com/abhisheksachdeva/)
+* [Scaling Infrastructure - Overview, Challenges and Improvements](https://docs.google.com/presentation/d/14YQ1uYh8974hMUc045caSxZXUtQKvAWsb3OrEPDyYJ0) - Internal talk at Vernacular.ai on 29th May, 2020 by [Abhishek Sachdeva](https://github.com/abhisheksachdeva/)
 
 ### Machine Learning
 

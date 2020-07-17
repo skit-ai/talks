@@ -27,6 +27,7 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 + [Type Systems - 1](https://docs.google.com/presentation/d/1IhJ51zk-qeOIpnJdD3AiWD5n18kKkuK4dvShoW2t6uc). Internal talk at Vernacular.ai on 17th April, 2020 by [Amresh Venugopal](https://github.com/ltbringer)
 + [Type Systems - 2](https://docs.google.com/presentation/d/1IhJ51zk-qeOIpnJdD3AiWD5n18kKkuK4dvShoW2t6uc/edit#slide=id.g839489554e_0_29). Internal talk at Vernacular.ai on 22nd May, 2020 by [Amresh Venugopal](https://github.com/ltbringer)
 + [Extending Python's Type Annotations](type-annotations/README.org). Internal talk at Vernacular.ai on 24th April, 2020 by [Abhinav Tushar](https://lepisma.xyz).
++ [Rust Ownership and Lifetimes](rust-ownership-and-lifetimes/). Internal talk at Vernacular.ai on 17th July, 2020 by [Deepankar Agrawal](deep110.github.io)
 
 ### Computer-Aided Musicology
 

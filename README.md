@@ -41,3 +41,4 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 + [Case studies in Informational Graphics and Visualizations](information-graphics/README.org). Internal talk at Vernacular.ai by [Abhinav Tushar](https://lepisma.xyz).
 + [Economic cycles](https://docs.google.com/presentation/d/130QWVonkw5HzH0e2SLTec3U45riApY8cb-nac9TumP8/edit#slide=id.p). Internal talk at Vernacular.ai on 27th March, 2020 by Udit Sarin.
 + [Hygiene in Client Facing Communication](./hygiene-in-client-facing-communication/). Internal talk at Vernacular.ai on 08th May, 2020 by Prateek Gupta.
++ [A Vocabulary for Productivity](./vocab-productivity/README.org). Internal talk at Vernacular.ai on 24th July, 2020 by [Abhinav Tushar](https://lepisma.xyz)

@@ -1,0 +1,19 @@
+#+TITLE: Assistive file for demo
+
+To Show:
+1. Scheduled [on agenda]
+2. Effort
+3. Tags
+4. Clocking and pomodoro
+
+* Product Meeting plan                                             :some:tag:
+SCHEDULED: <2020-07-24 Fri 13:15>
+:PROPERTIES:
+:Effort:   0.5h
+:END:
+:LOGBOOK:
+CLOCK: [2020-07-24 Fri 12:23]--[2020-07-24 Fri 12:23] =>  0:00
+CLOCK: [2020-07-24 Fri 12:23]--[2020-07-24 Fri 12:23] =>  0:00
+:END:
+
+https://meet.google.com/fxc-cvfy-ovz

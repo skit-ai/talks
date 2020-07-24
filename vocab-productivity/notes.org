@@ -1,0 +1,19 @@
+#+TITLE: Side notes
+
++ What
+  + Removing documentation and other features.
++ Quick demo
+  + Capture an email. And from mobile. And refile.
+  + Agenda, some item with email.
+  + org logging
+  + Weekly Review. org-analyzer. and [[https://lepisma.xyz/log/2019/11/18/weekly-review/index.html][log]].
++ Verbs. Partially borrowed from GTD. Run through each action in slow motion.
+  + Capture. plain text.
+  + Organize. trello, notes. open stuff.org
+  + View. push/pull. notebook
+  + Work. type of work. easy/hard. finite/infinite. practice/execution. slots.
+  + Review. levels of work/horizon.
++ Nouns and Adjectives as derived forms.
++ Implementation
+  + Extension of your brain
+* 

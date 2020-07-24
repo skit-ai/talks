@@ -1,0 +1,37 @@
+#+TITLE: A Vocabulary for Productivity
+
+* What
+1. Org-Mode workflow request
+2. Abstractions, implementation and experimentation
+
+* Workflow Demo
+...
+
+* Verbs
+** 1. Capture
+** 2. Organize
+** 3. View
+** 4. Work
+** 5. Review
+
+* Nouns and Adjectives
+...
+
+* Implementation
+** Dramatic Structure
+1. Intro
+2. Crisis
+3. Fall
+4. Resolution
+
+*** Examples
++ [[file:/run/media/lepisma/Data/Notes/work/targets.org][Plain lists]]
++ Flexibility and satisfaction
++ ...
+
+** Borrow from
++ OKR driven methods
++ Hipster PDA
++ Bullet Journal
++ Getting Things Done
++ ...

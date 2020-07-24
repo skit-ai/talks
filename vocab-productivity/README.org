@@ -1,0 +1,10 @@
+#+TITLE: A Vocabulary for Productivity
+
+See other files around for content. General idea is to think about the following
+in your workflow:
+
+1. Capture
+2. Organize
+3. View
+4. Work
+5. Review

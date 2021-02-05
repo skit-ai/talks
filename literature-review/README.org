@@ -3,36 +3,34 @@
 Internal talk on literature review process on 5th Feb, 2021.
 
 * Introduction
-Most of the research is /re-search/. Many of the researches don't just pop out in
+Research is /re-search/. Many of the researches don't just pop out in
 isolation, they build on top of ideas from before. Ideas are cheap and you can
-always find a lot of similarity with your work in the past or present. The
-process of /searching/ for similarities and shaping up differentiation in ideas is
-a major portion of day-to-day research.
+always find a lot of similar ideas if you dig in the past or the present. This
+changes the focus from the fantasyland perception of research to a more disciplined
+proces of /searching/ for similarities and building differentiation in ideas.
 
-We covered a few examples and anecdotes in the talk.
+We covered a few examples and anecdotes in the talk to elaborate the above points.
 
 * Workflow
-In an ongoing or check-pointed literature review, the output is some
-representation of the knowledge collected from various /sources/ in a structure
-that's easier for further consumption.
+In an ongoing or check-pointed literature review process, the output is some
+representation of the knowledge collected from various /sources/ in a structures
+that are easier for further consumption.
 
 ** Annotated bibliographies
-Making live annotated bibliographies for topics is a good output of literature
-review process.
+Living, annotated bibliographies for topics are good structures to keep output of literature
+reviews.
 
 Here are few examples:
 + [[https://github.com/ckaestne/seaibib][Software Engineering for AI/ML -- An Annotated Bibliography]]
 + [[https://github.com/samth/gradual-typing-bib][A bibliography on Gradual Typing]]
 
-[[https://www.goodreads.com/book/show/23461426-how-to-write-a-thesis][How to Write a Thesis]] by Umberto Eco is a good book covering a good research
-process.
+Generally, you might be interested in reading [[https://www.goodreads.com/book/show/23461426-how-to-write-a-thesis][How to Write a Thesis]] by Umberto Eco for a ritualistic research workflow.
 
 * Practicalities
 In the [[https://www.latex-project.org/][LaTeX]] world, standard way of representing bibliographies is using [[http://www.bibtex.org/][BibTeX]].
-There are many good tutorials to get started with bibliographies. Overleaf has a
-good guide [[https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex][here]] which might make more sense after we cover LaTeX itself.
+There are many good tutorials to get started with bibliographies. Overleaf has a guide [[https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex][here]]. This might make more sense after we cover LaTeX itself.
 
-For our purposes, we are switching to a company wide shared library.
+For our purposes, we are starting to maintain a team wide shared library.
 
 ** Shared Library
 We are using [[https://www.zotero.org/][Zotero]] to manage bibliographies. Here is the [[https://www.zotero.org/groups/2198932/vernacular.ai][group]] link. Ask

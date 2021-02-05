@@ -1,3 +1,43 @@
 #+TITLE: Literature Review
 
 Internal talk on literature review process on 5th Feb, 2021.
+
+* Literature Review
+Most of the research is /re-search/. Many of the researches don't just pop out in
+isolation, they build on top of ideas from before. Ideas are cheap and you can
+always find a lot of similarity with your work in the past or present. The
+process of /searching/ for similarities and shaping up differentiation in ideas is
+a major portion of day-to-day research.
+
+We covered a few examples and anecdotes in the talk.
+
+* Workflow
+In an ongoing or check-pointed literature review, the output is some
+representation of the knowledge collected from various /sources/ in a structure
+that's easier for further consumption.
+
+** Annotated bibliographies
+Making live annotated bibliographies for topics is a good output of literature
+review process.
+
+Here are few examples:
++ [[https://github.com/ckaestne/seaibib][Software Engineering for AI/ML -- An Annotated Bibliography]]
++ [[https://github.com/samth/gradual-typing-bib][A bibliography on Gradual Typing]]
+
+[[https://www.goodreads.com/book/show/23461426-how-to-write-a-thesis][How to Write a Thesis]] by Umberto Eco is a good book covering a good research
+process.
+
+* Practicalities
+In the [[https://www.latex-project.org/][LaTeX]] world, standard way of representing bibliographies is using [[http://www.bibtex.org/][BibTeX]].
+There are many good tutorials to get started with bibliographies. Overleaf has a
+good guide [[https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex][here]] which might make more sense after we cover LaTeX itself.
+
+For our purposes, we are switching to a company wide shared library.
+
+** Shared Library
+We are using [[https://www.zotero.org/][Zotero]] to manage bibliographies. Here is the [[https://www.zotero.org/groups/2198932/vernacular.ai][group]] link. Ask
+@abhinav for invites.
+
+We keep entries, books, articles, blogs, repositories, that we find interesting
+there with labels and notes in there. This is supposed to be the central place
+for keeping our researches for review and further citations.

@@ -2,7 +2,7 @@
 
 Internal talk on literature review process on 5th Feb, 2021.
 
-* Literature Review
+* Introduction
 Most of the research is /re-search/. Many of the researches don't just pop out in
 isolation, they build on top of ideas from before. Ideas are cheap and you can
 always find a lot of similarity with your work in the past or present. The

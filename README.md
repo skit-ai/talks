@@ -43,3 +43,4 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 + [Hygiene in Client Facing Communication](./hygiene-in-client-facing-communication/). Internal talk at Vernacular.ai on 08th May, 2020 by Prateek Gupta.
 + [Personal Branding](./personal-branding/). Internal talk on how to build a personal brand for yourself
 + [A Vocabulary for Productivity](./vocab-productivity/README.org). Internal talk at Vernacular.ai on 24th July, 2020 by [Abhinav Tushar](https://lepisma.xyz)
++ [Literature Review](./literature-review/README.org). Internal talk at Vernacular.ai on 5th Feb, 2021 by [Abhinav Tushar](https://lepisma.xyz)

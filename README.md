@@ -44,3 +44,4 @@ Talks, presentations, workshops from [Vernacular.ai](http://vernacular.ai/).
 + [Personal Branding](./personal-branding/). Internal talk on how to build a personal brand for yourself
 + [A Vocabulary for Productivity](./vocab-productivity/README.org). Internal talk at Vernacular.ai on 24th July, 2020 by [Abhinav Tushar](https://lepisma.xyz)
 + [Literature Review](./literature-review/README.org). Internal talk at Vernacular.ai on 5th Feb, 2021 by [Abhinav Tushar](https://lepisma.xyz)
++ [Writing](./writing-researches/README.org). Internal talk at Vernacular.ai on 4th Mar, 2021 by [Abhinav Tushar](https://lepisma.xyz)

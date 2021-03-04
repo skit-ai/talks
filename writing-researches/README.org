@@ -1,0 +1,102 @@
+#+TITLE: Writing
+
+Internal talk on writing process for research on 4th March, 2021.
+
+* Why Write?
+Here we covered reasons why we write.
+
+** Creation
+People write during the process of creation itself. These usually materialize in
+forms of research journals and notes that are used for refining ideas and
+conceptions over time.
+
+Here is an example of [[http://cudl.lib.cam.ac.uk/collections/darwin_mss/2][Darwin's Manuscripts]].
+
+** Collaboration
+When working with others, we use writing to prepare interfaces for other people
+to work with in the same project. Project documentations are one kind of writing
+here.
+
+** Communication
+We also write to communicate an idea that we create. We covered few aspects of
+such writings in [[https://kk.org/thetechnium/better-than-fre/][The Technium: Better Than Free]].
+
+** Clarification
+
++ [[https://carlzimmer.com/lost-world/][Lost World | Carl Zimmer]]
+
+* TODO Why Write /Well/?
+While writing itself is a thing we can't avoid, why focus on doing it well? Why
+not just get away with the bare minimum formality?
+
+Compromises in the act of writing are serious roadblocks in . A high quality paper has better
+chance of popularizing the idea.
+
+Additionally bad writing is bad communication, and bad communication [[https://www.youtube.com/watch?v=raMmRKGkGD4][can be
+disastrous]]. A lot many projects fail because the of misses in communication,
+many in the written form.
+
+* Current state
+At present, we don't value quality in communicative writing and keep this act as
+an after thought in most of our work.
+
+#+begin_quote
+Clear writing means clear thinking
+#+end_quote
+
+If we can't write something clearly, it's very likely that we are not clear
+about the thing itself. And things that are not clear can't be worked on, they
+only get dragged on till someone's patience runs out.
+
+* Things to do
+Unordered and non-exhaustive lists of things to consider:
+
++ Read and develop a scale of quality. You can't improve if you can't /see/ that
+  something is not good. Subscribe to good blogs and content outlets.
++ Follow /good/ writers and keep experimenting with your own personal style.
++ Experiment with a research journal. Iterate on your notes, hypotheses, and
+  plans periodically. Have a good note keeping system handy. Many people
+  recently are loving [[https://roamresearch.com/][roam]] like softwares. There are many [[https://logseq.com][open alternatives]] on
+  github.
++ Start your personal blog or write for the [[https://tech.vernacular.ai][team blog]]. Ask around the team on
+  how to set up a blog for yourself.
++ Set up processes and tools for writing. Be fluent with technologies that can
+  improve your work. Use prose [[http://proselint.com/][linters]], [[https://languagetool.org/][language checker]], and other assistive
+  tools. Learn [[https://www.latex-project.org/][LaTeX]], use symbols and algorithmic expressions if they help frame
+  your thoughts better. We prefer using [[https://www.dropbox.com/paper][dropbox paper]] for collaborating on
+  drafts.
++ Think about structuring all kinds of documents in your work starting from
+  project inception to conclusion.
++ Double check the messages and emails you write. See how they can be improved.
+  Are they expressing what you want to express?
++ Keep asking new questions to old write-ups. Iterate.
+
+Few internal guidelines (many missing and yet to come) that might be of use:
++ [[https://outline.vernacular.ai/doc/writing-blogs-and-papers-vsHlykALW6][Writing blogs and papers]]
++ [[https://outline.vernacular.ai/doc/blog-review-protocol-0cqBY8vW1U][Blog Review Protocol]]
++ [[https://outline.vernacular.ai/doc/concluding-a-project-nlbnLdSpgb][Concluding a project]]
++ [[https://outline.vernacular.ai/doc/handing-over-projects-bJT5jvJceN][Handing over project]]
+  
+* ...
+Last bit of advice coming from Hemingway.
+
+#+begin_quote
+Don’t get discouraged because there’s a lot of mechanical work to writing. There
+is, and you can’t get out of it. I rewrote A Farewell to Arms at least fifty
+times. You’ve got to work it over. The first draft of anything is shit. When you
+first start to write you get all the kick and the reader gets none, but after
+you learn to work it’s your object to convey everything to the reader so that he
+remembers it not as a story he had read but something that happened to himself.
+That’s the true test of writing. When you can do that, the reader gets the kick
+and you don’t get any. You just get hard work and the better you write the
+harder it is because every story has to be better than the last one. It’s the
+hardest work there is. I like to do and can do many things better than I can
+write, but when I don’t write I feel like shit. I’ve got the talent and I feel
+that I’m wasting it.
+#+end_quote
+
+* Further readings
++ [[https://www.nature.com/articles/d41586-019-02918-5][Novelist Cormac McCarthy’s tips on how to write a great science paper]]
++ [[https://www.goodreads.com/book/show/53343.On_Writing_Well][On Writing Well: The Classic Guide to Writing Nonfiction by William Zinsser]]
++ [[https://www.amazon.com/Guide-Managerial-Communication-10th-Business/dp/013297133X][Guide to Managerial Communication]]
++ [[https://www.goodreads.com/book/show/33514][The Elements of Style by William Strunk Jr.]]

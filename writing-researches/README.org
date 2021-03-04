@@ -50,8 +50,8 @@ someone's patience runs out.
 
 * Things to do
 + Read and develop a scale of quality. You can't improve if you can't /see/ that
-  something is not good. Subscribe to good blogs and content outlets.
-+ Follow /good/ writers and keep experimenting with your own personal style.
+  something is not good. Subscribe to good blogs and content outlets. Follow
+  /good/ writers and keep experimenting with your own personal style.
 + Experiment with a research journal. Iterate on your notes, hypotheses, and
   plans periodically. Have a good note keeping system handy. Many people
   recently are loving [[https://roamresearch.com/][roam]] like softwares. There are many [[https://logseq.com][open alternatives]] on
@@ -62,7 +62,7 @@ someone's patience runs out.
   improve your work. Use prose [[http://proselint.com/][linters]], [[https://languagetool.org/][language checker]]s, and other assistive
   tools. Learn [[https://www.latex-project.org/][LaTeX]], use symbols and algorithmic expressions if they help frame
   your thoughts better. Try using [[https://www.dropbox.com/paper][dropbox paper]] for collaborating on drafts.
-+ Think about structuring all kinds of documents in your work starting from
++ Think about structuring all kinds of documents in your work better, from
   project inception to conclusion.
 + Double check the messages and emails you write. See how they can be improved.
   Are they expressing what you want to express?

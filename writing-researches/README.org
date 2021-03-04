@@ -59,10 +59,9 @@ someone's patience runs out.
 + Start your personal blog or write for the [[https://tech.vernacular.ai][team blog]]. Ask around the team on
   how to set up a blog for yourself.
 + Set up processes and tools for writing. Be fluent with technologies that can
-  improve your work. Use prose [[http://proselint.com/][linters]], [[https://languagetool.org/][language checker]], and other assistive
+  improve your work. Use prose [[http://proselint.com/][linters]], [[https://languagetool.org/][language checker]]s, and other assistive
   tools. Learn [[https://www.latex-project.org/][LaTeX]], use symbols and algorithmic expressions if they help frame
-  your thoughts better. We prefer using [[https://www.dropbox.com/paper][dropbox paper]] for collaborating on
-  drafts.
+  your thoughts better. Try using [[https://www.dropbox.com/paper][dropbox paper]] for collaborating on drafts.
 + Think about structuring all kinds of documents in your work starting from
   project inception to conclusion.
 + Double check the messages and emails you write. See how they can be improved.

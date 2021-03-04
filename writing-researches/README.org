@@ -3,7 +3,7 @@
 Internal talk on writing process for research on 4th March, 2021.
 
 * Why Write?
-Here we covered reasons why we write.
+Here we covered reasons for writing.
 
 ** Creation
 People write during the process of creation itself. These usually materialize in
@@ -13,44 +13,42 @@ conceptions over time.
 Here is an example of [[http://cudl.lib.cam.ac.uk/collections/darwin_mss/2][Darwin's Manuscripts]].
 
 ** Collaboration
-When working with others, we use writing to prepare interfaces for other people
-to work with in the same project. Project documentations are one kind of writing
-here.
+When working with others, we use writing to prepare interfaces for others
+working on the same project. Interface documentations are common examples of
+this kind.
 
 ** Communication
-We also write to communicate an idea that we create. We covered few aspects of
-such writings in [[https://kk.org/thetechnium/better-than-fre/][The Technium: Better Than Free]].
+We also write to communicate an idea that we create. These have a few properties
+that are visible in writings like [[https://kk.org/thetechnium/better-than-fre/][The Technium: Better Than Free]].
 
 ** Clarification
+At times writing is more explanatory, uncovering new insights in already present
+concepts and communicating them more clearly than ever. Here is an example: [[https://carlzimmer.com/lost-world/][Lost
+World | Carl Zimmer]].
 
-+ [[https://carlzimmer.com/lost-world/][Lost World | Carl Zimmer]]
-
-* TODO Why Write /Well/?
+* Why Write /Well/?
 While writing itself is a thing we can't avoid, why focus on doing it well? Why
 not just get away with the bare minimum formality?
 
-Compromises in the act of writing are serious roadblocks in . A high quality paper has better
-chance of popularizing the idea.
+Compromises in the act of writing are more severe than most of us believe. Ideas
+and projects have dramatically higher chance of success if the involved writings
+in every stage are of high quality. Poorly written papers are unread. Bad
+documentation repels users.
 
 Additionally bad writing is bad communication, and bad communication [[https://www.youtube.com/watch?v=raMmRKGkGD4][can be
-disastrous]]. A lot many projects fail because the of misses in communication,
-many in the written form.
+disastrous]]. A lot many projects fail because of misses in communication, many in
+the written form.
 
 * Current state
-At present, we don't value quality in communicative writing and keep this act as
-an after thought in most of our work.
+At present, we don't value quality in communicative writing and keep writing an
+after thought in most of our work.
 
-#+begin_quote
-Clear writing means clear thinking
-#+end_quote
-
-If we can't write something clearly, it's very likely that we are not clear
-about the thing itself. And things that are not clear can't be worked on, they
-only get dragged on till someone's patience runs out.
+But, "/clear writing means clear thinking/". If we can't write something clearly,
+it's very likely that we are not clear about the thing in our own head. And
+things that are not clear can't be worked on, they only get dragged on till
+someone's patience runs out.
 
 * Things to do
-Unordered and non-exhaustive lists of things to consider:
-
 + Read and develop a scale of quality. You can't improve if you can't /see/ that
   something is not good. Subscribe to good blogs and content outlets.
 + Follow /good/ writers and keep experimenting with your own personal style.

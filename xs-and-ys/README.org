@@ -1,0 +1,3 @@
+#+TITLE: Xs and Ys
+
+See [[file:./index.org][here]].

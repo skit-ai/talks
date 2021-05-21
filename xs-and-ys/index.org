@@ -1,0 +1,91 @@
+#+TITLE: Xs and Ys
+#+AUTHOR: Abhinav Tushar
+#+DATE: [2021-05-21 Fri]
+
+* /AI/ SaaS
+
+* Software Quality
+Example: ?
+
++ ?
++ ?
+
+* /AI/ Software Quality
+
++ ?
++ ?
+
+* We want a /shared/ understanding of AI Software and its Quality
+
+* Why does it matter?
+#+begin_quote
+We found that driving true business impact is amazingly hard, plus it is
+difficult to isolate and understand the connection between efforts on modeling
+and the observed impact… Our main conclusion is that an iterative, hypothesis
+driven process, integrated with other disciplines was fundamental to build 150
+successful products enabled by machine learning.
+#+end_quote
+
+* AI Software
+
+Code =+ Data=
+
+* AI Software
+
+[[file:./images/ais.png]]
+
+* Data
+
+** Xs and Ys
+
+[[file:./images/xy.png]]
+
+** More examples
+
+1. ?
+2. ?
+3. ?
+
+** No Ys
+
+[[file:./images/anomaly.png]]
+
+** Other Factors in Production
+
++ Source type
++ Supervision style
++ Quality
+
+** Spotify Radio
+
+[[file:./images/spotify-radio.png]]
+
+** Spotify Radio in VIVA
+
+?
+
+
+* How to build High Quality AIS?
+
+** Key learnings
++ Feedback
++ Iterations
+
+* Platform
+
+[[file:./images/tfx.png]]
+
+* Platform
+#+begin_quote
+As we moved the Google Play ranking system from its previous version to TFX, we
+saw an increased velocity of iterating on new experiments, reduced technical
+debt, and improved model quality.
+#+end_quote
+
+* MLOps
+
+[[file:./images/mlops.svg]]
+
+* ?
+
+@abhinav on slack

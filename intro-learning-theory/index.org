@@ -1,0 +1,84 @@
+#+TITLE: Introduction to Statistical Learning Theory
+
+* What is Learning?
+
+Or what is Machine Learning? Let's attempt a formalization.
+
+: show hypothesis classes
+
+* What is a Theory?
+#+begin_quote
+Theory explains observations
+#+end_quote
+
+* Why learn Theory?
+** Exhibit #1
+First Class Functions
+
+: show decorator example
+
+** Exhibit #2
+*nix pipes
+
+: show DDIA map-reduce example
+
+** Exhibit #3
+Cooley-Tukey Algorithm
+
+: show FFT
+
+** Exhibit #4
+Weak learners and AdaBoost. We will come back to this in a while.
+
+* Why learn Theory?
+#+begin_quote
+Theory tells you the core constructs and their interactions. That helps to
+create novel interventions.
+
+Theory unlocks hackability for a domain.
+#+end_quote
+
+- Shell Theory is for automation hackers
+- Computational Complexity Theory is for algorithm hackers
+- ML Theory is for ML hackers
+- *Theory is for hackers*
+
+* What is Learning Theory?
+Learning setting.
+
+: go back to first example, cover ERM.
+
+** Concepts
+- Problem
+- Sample
+- Hypotheses Class
+  - Realizable and agnostic
+  - Capacity
+- Risk
+  - Empirical and Generalization
+  - Decomposition
+- Training Algorithm
+
+** PAC Learning, VC-dimension, etcetera
+: page 44, UML
+
+$R(h)\leq R_{emp}(h)+C(|\mathscr{H}|,N, \delta)$
+
+** Generalization Gap
+True learning problem.
+
+: remark on random learning
+
+* AdaBoost
+How will you invent boosting?
+
+* AdaBoost
+- Origin. Weak Learners.
+- How to reason out overfitting? Resort to bounds.
+
+- Boosting problem
+- Training error from paper
+- Generalization bound from UML and paper
+
+* TODO Resources
+Will share links later in the day.

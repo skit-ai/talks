@@ -1,0 +1,5 @@
+#+TITLE: Introduction to Statistical Learning Theory
+
+Internal talk at Skit introducing statistical learning theory.
+
+See [[./index.org]] for sketch of the talk.

@@ -80,5 +80,14 @@ How will you invent boosting?
 - Training error from paper
 - Generalization bound from UML and paper
 
-* TODO Resources
-Will share links later in the day.
+* Resources
+Links used during the session:
++ [[file:./scratch.pdf][Poorly written notes]]
++ [[https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm#History][Cooley–Tukey FFT algorithm - Wikipedia]]
++ [[https://en.wikipedia.org/wiki/AdaBoost][AdaBoost - Wikipedia]]
+
+More resources to read:
++ [[https://www.amazon.in/Understanding-Machine-Learning-Theory-Algorithms-ebook/dp/B00J8LQU8I][Understanding Machine Learning: From Theory to Algorithms eBook : Shalev-Shwa...]]
++ [[https://cseweb.ucsd.edu/~yfreund/papers/IntroToBoosting.pdf][A Short Introduction to Boosting]]
++ [[https://proceedings.neurips.cc/paper/2007/file/0d3180d672e08b4c5312dcdafdf6ef36-Paper.pdf][The Tradeoffs of Large Scale Learning]]+
+ [[https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext][Understanding Deep Learning (Still) Requires Rethinking Generalization | Marc...]]
